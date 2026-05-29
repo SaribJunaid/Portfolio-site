@@ -72,18 +72,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
+      { title: "saribjunaid" },
       { name: "description", content: "AI Automation Specialist Sarib Junaid's website converts business owners into booked strategy calls." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
+      { property: "og:title", content: "saribjunaid" },
       { property: "og:description", content: "AI Automation Specialist Sarib Junaid's website converts business owners into booked strategy calls." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
-      { name: "twitter:title", content: "Lovable App" },
+      { name: "twitter:title", content: "saribjunaid" },
       { name: "twitter:description", content: "AI Automation Specialist Sarib Junaid's website converts business owners into booked strategy calls." },
-      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a4a1aba5-27c8-4af6-93b3-fa488417d2b0/id-preview-f31e1122--eb30734e-100b-42b2-a2d0-7e2cf7adf2c4.lovable.app-1780055244090.png" },
-      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a4a1aba5-27c8-4af6-93b3-fa488417d2b0/id-preview-f31e1122--eb30734e-100b-42b2-a2d0-7e2cf7adf2c4.lovable.app-1780055244090.png" },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/ebc15834-6c43-4ef2-8067-dac05e25d000/id-preview-65ce277d--eb30734e-100b-42b2-a2d0-7e2cf7adf2c4.lovable.app-1780058055771.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/ebc15834-6c43-4ef2-8067-dac05e25d000/id-preview-65ce277d--eb30734e-100b-42b2-a2d0-7e2cf7adf2c4.lovable.app-1780058055771.png" },
     ],
     links: [
       {
